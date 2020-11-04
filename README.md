@@ -5,7 +5,7 @@ The videos in the sub-folder are used to test the reproducibility of the computa
 </p>
 
 <img
-src=“images/SubPronouns.jpg”
+src=“images/water direction.jpg”
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
