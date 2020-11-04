@@ -5,5 +5,6 @@ The videos in the sub-folder are used to test the reproducibility of the computa
 </p>
 
 <p align="center">
+  <img width="460" height="300" src="https://github.com/BenSirenden/Open-Channel-Water-Flow-Video/blob/main/images/water%20direction.jpg">
 ![Image of water flow direction](https://github.com/BenSirenden/Open-Channel-Water-Flow-Video/blob/main/images/water%20direction.jpg)
 </p>
