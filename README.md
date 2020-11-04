@@ -4,9 +4,6 @@ The videos in this respitory are collected as data in research on the appropriat
 The videos in the sub-folder are used to test the reproducibility of the computational results of the algorithm. Description of the location and date of the video was taken in the readme.md file in each folder.
 </p>
 
-<img
-src=“images/water direction.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img width=“964” alt=“Water direction” src=“https://github.com/BenSirenden/Open-Channel-Water-Flow-Video/blob/main/images/water%20direction.jpg”>
+
+
