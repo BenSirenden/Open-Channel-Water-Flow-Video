@@ -14,8 +14,8 @@ For each dates, the camera rotated at 4 different angles, except for <b>26-11-20
 </p>
  
  
-| <p align="center">Video Index</p> | <p align="center">&alpha;</p> |
-|-|-|
+| Video Index | &alpha; |
+|:-:|:-:|
 | First Video | <p align="center"> 0<sup>o</sup> </p> |
 | Second Video | <p align="center"> 0<sup>o</sup> <&alpha;<90<sup>o</sup> </p> |
 | Third Video | <p align="center">270<sup>o</sup> <&alpha;<360<sup>o</sup></p> |
