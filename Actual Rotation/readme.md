@@ -5,6 +5,5 @@ the water surface. The video was shot  on the surface of a small river located o
 </p>
 
 <p align="justify">
- 
- For each dates, the water flows were recorded at 4 different angles, except for 
+ For each dates, the water flows were recorded at 4 different angles, except for <b> 05-12-2019 </b>. The reason for this can be read at "readme.md" file in each sub folder.
  </p>
