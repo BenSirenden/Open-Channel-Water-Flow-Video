@@ -21,3 +21,6 @@ For each dates, the camera rotated at 4 different angles, except for <b>26-11-20
 | Third Video | <p align="center">270<sup>o</sup> <&alpha;<360<sup>o</sup></p> |
 | Fourth Video | <p align="center">90<sup>o</sup></p> |
 
+<p align="center">
+ Unlike before, in the subfolder <b>26-11-2019</b>, four video data were not rotated at all. The &alpha; angle formed is 90 <sup>o</sup>. So the four videos have the same flow rate and direction.
+ </p>
