@@ -10,7 +10,7 @@ For each dates, the camera rotated at 4 different angles, except for <b>26-11-20
 </p>
 
 <p>
- The <b>&alpha;</b> values for the video shoots dated <b>05-11-2019</b>, <b>19-11-2019</b> and <b>21-11-2019<b/> are shown in the table below.
+ The <b>&alpha;</b> values for the video shoots dated <b>05-11-2019</b>, <b>19-11-2019</b> and <b>21-11-2019</b> are shown in the table below.
 </p>
  
  
