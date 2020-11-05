@@ -22,7 +22,5 @@ For each dates, the camera rotated at 4 different angles, except for <b>26-11-20
 | Fourth Video | <p align="center">90<sup>o</sup></p> |
 
 <p align="justify">
- Unlike before, in the subfolder <b>26-11-2019</b>, four video data were not rotated at all. The <b>&alpha;</b> angle formed is 90<sup>o</sup>. So the four videos have simmilar flow rate and direction. In subfolder <b>28-11-2019</b>, the angle of the video frame was rotated clockwise from <b>α</b> = 0<sup>o</sup>, to 0<sup>o</sup><<b>α</b><90<sup>o</sup>,and then <b>α</b>= 90<sup>o</sup> in the same video capture. Data retrieval  was  done  4  times and there was no pause during data gatherings.
- 
- where  the  duration  of  each video was around 10 seconds. There was no pause during data gatherings.
+ Unlike before, in the subfolder <b>26-11-2019</b>, four video data were not rotated at all. The <b>&alpha;</b> angle formed is 90<sup>o</sup>. So the four videos have simmilar flow rate and direction. In subfolder <b>28-11-2019</b>, the angle of the video frame was rotated clockwise from <b>α</b> = 0<sup>o</sup>, to 0<sup>o</sup><<b>α</b><90<sup>o</sup>,and then <b>α</b>= 90<sup>o</sup> in the same video capture. Data retrieval  was  done  4  times and there was no pause during data gatherings. The duration of each video that has been discussed previously is about 10 seconds.
  </p>
