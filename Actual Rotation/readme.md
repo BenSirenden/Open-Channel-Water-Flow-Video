@@ -5,5 +5,5 @@ the water surface. The video was shot  on the surface of a small river located o
 </p>
 
 <p align="justify">
- For each dates, the water flows were recorded at 4 different angles, except for <b>26-11-2019</b> and <b> 05-12-2019 </b>. The reason for this can be read at "readme.md" file in each sub-folder.
+For each dates, the camera rotated at 4 different angles, except for <b>26-11-2019</b> and <b> 05-12-2019 </b>. The reason for this can be read at "readme.md" file in each sub-folder. The image below illustrates the camera rotate angle <b>(&alpha)</b>. The value of &alpha for each subfolder can be read in "readme.md" in each sub-folder.
  </p>
