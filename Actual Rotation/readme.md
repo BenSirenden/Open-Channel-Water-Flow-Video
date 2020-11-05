@@ -8,3 +8,7 @@ For each dates, the camera rotated at 4 different angles, except for <b>26-11-20
 <p align="center">
   <img width="460" height="300" src="https://github.com/BenSirenden/Open-Channel-Water-Flow-Video/blob/main/images/water%20direction.jpg">
 </p>
+
+<p>
+ The <b>&alpha;</b> values for the video shoots dated <b>05-11-2019</b>, <b>19-11-2019</b> and <b>21-11-2019<b/> are shown in the table below.
+</p>
