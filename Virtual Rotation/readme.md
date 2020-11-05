@@ -4,7 +4,7 @@
   distance of about 1 to 1.5 meters, with the camera parallel to the water surface. 
   The shooting location is an open water channel, which is located opposite the University of Indonesia train station on April 30, 2019.
   The second video, namely <b>VR02</b>, is taken from the internet, the distance between
-  the camera and the water surface is unknown, but it looks like
-  it’s more than 1.5 meters. The angle between the camera lens
-  and the water surface is also unknown. For both videos the
+  the camera and the water surface is unknown, but it looks like it’s more than 1.5 meters. 
+  The angle between the camera lens and the water surface is also unknown. 
+  For both videos the surface velocity of the water flow is unknown, but is estimated to be different.
 </p>
