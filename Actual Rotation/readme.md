@@ -49,7 +49,7 @@ Unlike before, in the subfolder <b>26-11-2019</b>, four video data have the same
 <thead>
   <tr>
     <th class="tg-c3ow" rowspan="2">Video Index</th>
-    <th class="tg-c3ow" colspan="2">&amp;alpha;</th>
+    <th class="tg-c3ow" colspan="2">&alpha;</th>
   </tr>
   <tr>
     <td class="tg-c3ow">First Shot</td>
@@ -64,7 +64,7 @@ Unlike before, in the subfolder <b>26-11-2019</b>, four video data have the same
   </tr>
   <tr>
     <td class="tg-0pky">Second Video</td>
-    <td class="tg-c3ow">0&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;90&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-c3ow">0<sup>o</sup><&alpha;<;90<sup>o</sup></td>
     <td class="tg-c3ow">0<sup>o</sup></td>
   </tr>
   <tr>
