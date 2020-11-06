@@ -44,3 +44,49 @@ For each dates, the camera rotated at 4 different angles, except for <b>26-11-20
 <p align="justify">
 Unlike before, in the subfolder <b>26-11-2019</b>, four video data have the same <b>&alpha;</b> which is 90<sup>o</sup>. So the four videos have simmilar flow rate and direction. In subfolder <b>28-11-2019</b>, the angle of the video frame was rotated clockwise from <b>α</b> = 0<sup>o</sup>, to 0<sup>o</sup><<b>α</b><90<sup>o</sup>,and then <b>α</b>= 90<sup>o</sup> in the same video capture. Data retrieval  was  done  4  times and there was no pause during data gatherings. The <b>duration</b> of each video that has been discussed above is about <b>10 seconds</b>. Subfolder 12-05-2019 has only two video data, less than the other subfolders. Just like the subfolder 28-11-2019, in this subfolder the camera is rotated during the shooting process, the difference is the number of <b>α</b> is more, the duration is longer, which is 24 seconds, and the shooting is paused before the camera is rotated. The table below shows the <b>α</b> values used.
  </p>
+ 
+ 
+ <table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow" rowspan="2">Video Index</th>
+    <th class="tg-c3ow" colspan="2">&amp;alpha;</th>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">First Shot</td>
+    <td class="tg-c3ow">Second Shot</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">First Video</td>
+    <td class="tg-c3ow">90&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-c3ow">90&lt;sup&gt;o&lt;/sup&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Second Video</td>
+    <td class="tg-c3ow">0&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;90&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-c3ow">0&lt;sup&gt;o&lt;/sup&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Third Video</td>
+    <td class="tg-c3ow">0&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-c3ow">270&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;360&lt;sup&gt;o&lt;/sup&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Fourth Video</td>
+    <td class="tg-c3ow">0&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-c3ow">90&lt;sup&gt;o&lt;/sup&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Fifth Video</td>
+    <td class="tg-baqh">0&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;90&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-baqh">0&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;90&lt;sup&gt;o&lt;/sup&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sixth Video</td>
+    <td class="tg-baqh">90&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-baqh">270&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;360&lt;sup&gt;o&lt;/sup&gt;</td>
+  </tr>
+</tbody>
+</table>
