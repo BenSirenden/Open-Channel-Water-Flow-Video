@@ -52,37 +52,37 @@ Unlike before, in the subfolder <b>26-11-2019</b>, four video data have the same
     <th class="tg-c3ow" colspan="2">&alpha;</th>
   </tr>
   <tr>
-    <td class="tg-c3ow">First Shot</td>
-    <td class="tg-c3ow">Second Shot</td>
+   <td class="tg-c3ow"><b>First Shot</b></td>
+   <td class="tg-c3ow"><b>Second Shot</b></td>
   </tr>
 </thead>
 <tbody>
-  <tr>
+  <tr align="center">
     <td class="tg-0pky">First Video</td>
     <td class="tg-c3ow">90<sup>o</sup></td>
     <td class="tg-c3ow">90<sup>o</sup></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td class="tg-0pky">Second Video</td>
     <td class="tg-c3ow">0<sup>o</sup><&alpha;<90<sup>o</sup></td>
     <td class="tg-c3ow">0<sup>o</sup></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td class="tg-0pky">Third Video</td>
     <td class="tg-c3ow">0<sup>o</sup></td>
     <td class="tg-c3ow">270<sup>o</sup><&alpha;<360<sup>o</sup></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td class="tg-0pky">Fourth Video</td>
     <td class="tg-c3ow">0<sup>o</sup></td>
     <td class="tg-c3ow">90<sup>o</sup></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td class="tg-0lax">Fifth Video</td>
     <td class="tg-baqh">0<sup>o</sup><&alpha;<90<sup>o</sup></td>
     <td class="tg-baqh"0<sup>o</sup><&alpha;<90<sup>o</sup></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td class="tg-0lax">Sixth Video</td>
     <td class="tg-baqh">90<sup>o</sup></td>
     <td class="tg-baqh">270<sup>o</sup><&alpha;<360<sup>o</sup></td>
