@@ -64,13 +64,13 @@ Unlike before, in the subfolder <b>26-11-2019</b>, four video data have the same
   </tr>
   <tr>
     <td class="tg-0pky">Second Video</td>
-    <td class="tg-c3ow">0<sup>o</sup><&alpha;<;90<sup>o</sup></td>
+    <td class="tg-c3ow">0<sup>o</sup><&alpha;<90<sup>o</sup></td>
     <td class="tg-c3ow">0<sup>o</sup></td>
   </tr>
   <tr>
     <td class="tg-0pky">Third Video</td>
     <td class="tg-c3ow">0<sup>o</sup></td>
-    <td class="tg-c3ow">270&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;360&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-c3ow">270<sup>o</sup><&alpha;<360<sup>o</sup></td>
   </tr>
   <tr>
     <td class="tg-0pky">Fourth Video</td>
@@ -79,13 +79,13 @@ Unlike before, in the subfolder <b>26-11-2019</b>, four video data have the same
   </tr>
   <tr>
     <td class="tg-0lax">Fifth Video</td>
-    <td class="tg-baqh">0&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;90&lt;sup&gt;o&lt;/sup&gt;</td>
-    <td class="tg-baqh">0&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;90&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-baqh">0<sup>o</sup><&alpha;<90<sup>o</sup></td>
+    <td class="tg-baqh"0<sup>o</sup><&alpha;<90<sup>o</sup></td>
   </tr>
   <tr>
     <td class="tg-0lax">Sixth Video</td>
     <td class="tg-baqh">90<sup>o</sup></td>
-    <td class="tg-baqh">270&lt;sup&gt;o&lt;/sup&gt;&lt;&amp;alpha;&lt;360&lt;sup&gt;o&lt;/sup&gt;</td>
+    <td class="tg-baqh">270<sup>o</sup><&alpha;<360<sup>o</sup></td>
   </tr>
 </tbody>
 </table>
