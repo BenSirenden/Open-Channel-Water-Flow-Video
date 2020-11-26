@@ -1,0 +1,15 @@
+video 1
+1. tegak lurus
+2. serong kiri
+3. horisontal
+4. tegak lurus
+5. serong kiri
+6. horisontal
+
+video 2
+1. tegak lurus
+2. serong kiri
+3. horisontal
+4. horisontal
+5. serong kiri
+6. tegak lurus
