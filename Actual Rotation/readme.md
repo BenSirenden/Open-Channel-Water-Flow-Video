@@ -22,19 +22,19 @@ For each dates, the camera rotated at 4 different angles, except for <b>26-11-20
   </thead>
  <tbody>
   <tr>
-    <td class="tg-0pky">First Video</td>
+    <td class="tg-0pky">hor</td>
     <td class="tg-0pky"><p align="center"> 0<sup>o</sup> </p></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Second Video</td>
+    <td class="tg-0pky">ska</td>
    <td class="tg-0pky"><p align="center"> 0<sup>o</sup> <&alpha;<90<sup>o</sup> </p></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Third Video</td>
+    <td class="tg-0pky">ski</td>
     <td class="tg-c3ow"><p align="center">270<sup>o</sup> <&alpha;<360<sup>o</sup></p></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Fourth Video</td>
+    <td class="tg-0pky">ver</td>
     <td class="tg-c3ow"><p align="center">90<sup>o</sup></p></td>
   </tr>
  </tbody>
